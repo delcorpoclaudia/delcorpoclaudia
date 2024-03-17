@@ -1,0 +1,3 @@
+- Hi, I’m @delcorpoclaudia
+- I’m interested in all kinds of linguistics!
+- I’m currently learning computational linguistics.
